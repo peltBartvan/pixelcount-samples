@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: pixelcount-samples
+Version: 0.0.2.0
+Summary: Pixel counting for wafer images
+Home-page: https://github.com/peltbartvan/pixelcount-samples
+Author: Bart van Pelt
+Author-email: bartvanpelt1997@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/peltbartvan/pixelcount-samples/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Pixel counting for wafer images
+
+The used algorithm can be imported as:
+> from pixelcount.algorithm import pipeline
+
+For ease of use, a frontend is included, run this with:
+> from pixelcount import frontend
+
+

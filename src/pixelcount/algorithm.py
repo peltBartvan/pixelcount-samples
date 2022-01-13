@@ -30,7 +30,6 @@ def pipeline(image, **params):
         return slic(image, **defaults)
     
     # run slic with default, but editable, parameters
-    print('slic data')
     SLIC = slic_defaults(image, **params)
     # extract the background
     background = get_background(SLIC.copy())

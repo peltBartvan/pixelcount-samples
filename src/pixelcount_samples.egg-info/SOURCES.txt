@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/pixelcount/__init__.py
+src/pixelcount/algorithm.py
+src/pixelcount/frontend.ipynb
+src/pixelcount/frontend.py
+src/pixelcount_samples.egg-info/PKG-INFO
+src/pixelcount_samples.egg-info/SOURCES.txt
+src/pixelcount_samples.egg-info/dependency_links.txt
+src/pixelcount_samples.egg-info/requires.txt
+src/pixelcount_samples.egg-info/top_level.txt
